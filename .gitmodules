@@ -1,3 +1,6 @@
 [submodule "figure_1/kvklabscripts_test"]
 	path = figure_1/kvklabscripts_test
 	url = https://github.com/pierrj/kvklabscripts_test.git
+[submodule "kvklabscripts_test"]
+	path = kvklabscripts_test
+	url = https://github.com/pierrj/kvklabscripts_test.git
